@@ -1,0 +1,19 @@
+{
+  "contatos": [
+    {
+      "id": 1,
+      "nome": "João da Silva",
+      "endereco": "Rua x, 34"
+    },
+    {
+      "id": 2,
+      "nome": "Igor Malta",
+      "endereco": "Rua y, 34"
+    },
+    {
+      "nome": "Fernando Alves",
+      "endereco": "Rua c, 34",
+      "id": 3
+    }
+  ]
+}
