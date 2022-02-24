@@ -4,13 +4,16 @@ body {
 
 /*Regras do Componente box-notícia*/
 .box-notícia {
-    margin-top: 10px;
+    margin: 10px 0px;
+    overflow: auto;
     color: dimgray;
+    clear: both;
 
 }
 .box-noticia img{
     float: left;
     margin-right: 10px;
+    width: 180px;
 }
 
 .box-noticia .titulo{
